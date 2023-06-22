@@ -30,3 +30,19 @@ After that, we have successfully installed the driver and will be able to close 
 Now that the new driver is installed, you have to go to the site: https://code.pybricks.com/. On the Website you should look for the point "firmware" and then look for the under point "Restore official LEGO® Firmware."
 ![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Restore-Firmware.png)
 
+A window should open in which you can choose between the different Lego hubs. You can choose if you want to install the firmware of the spike prime, the yellow hub, or the firmware of the robot inventor, the turquoise hub. You can save your decision by clicking "next" in the menu. In this case I choose the robot inventor Firmware.
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/select-Firmware.png)
+
+Now put the hub back into "DFU mode" as described above. When the HUB is in "DFU mode" again, press "Restore" on the page and select the HUB in the upper left corner, and press "Connect".
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Final-steps.png)
+
+A progress bar should now appear at the top of the middle of the screen, which indicates how far the installing of the new firmware is.
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/progress.png)
+
+When the installation is complete, you should be able to open the software of the firmware you installed. In my case, it is the software for the robot inventor. You should now open a Code and receive the message that you need to update the firmware, do that.
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Update-Firmware.png)
+
+
+Congrats! You should now have the desired firmware up and running on your hub.
+
+I hope the instructions worked for you.
