@@ -8,4 +8,13 @@ Now that the hub is in DFU mode, you must open the device manager, search for "o
 ![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Screenshot%202023-06-21%20122228.png)
 
 The next step will be to select from where you want to install the driver. In this case, you will have to choose "Browse my computer for drivers".
-![](![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Screenshot%202023-06-21%20122228.png))
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Screenshot%202023-06-21%20142839.png)
+
+The subsequent step will be to choose from which source we will install the driver. The drive necessary for the hub is already stored on your computer, so you will need to select "Let me pick from a list of available drivers on my computer."
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Driver.png)
+
+Next, you need to choose which type of device the driver is for. In this case, it will be for a "Universal Serial Bus device"
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/select%20device%20type.png)
+
+To install a device driver, first choose the manufacturer, which is called "WinUsb Device." Then choose the model, which is also called "WinUsb Device".
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/choose-driver.png)
