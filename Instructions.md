@@ -19,3 +19,10 @@ Next, you need to choose which type of device the driver is for. In this case, i
 To install a device driver, first choose the manufacturer, which is called "WinUsb Device." Then choose the model, which is also called "WinUsb Device".
 
 ![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/choose-driver.png)
+
+Windows will warn you that it does not recommend installing the driver on the hub, because it cannot verify that the driver is compatible with the hub. However, we will confirm with "yes" that we want to install the driver on the hub.
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Warning.png)
+
+After that, we have successfully installed the driver and will be able to close the window.
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Finish.png)
+
