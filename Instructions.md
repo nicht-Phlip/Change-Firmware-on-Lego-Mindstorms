@@ -17,4 +17,5 @@ Next, you need to choose which type of device the driver is for. In this case, i
 ![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/select%20device%20type.png)
 
 To install a device driver, first choose the manufacturer, which is called "WinUsb Device." Then choose the model, which is also called "WinUsb Device".
+
 ![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/choose-driver.png)
