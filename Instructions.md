@@ -27,3 +27,6 @@ Windows will warn you that it does not recommend installing the driver on the hu
 After that, we have successfully installed the driver and will be able to close the window.
 ![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Finish.png)
 
+Now that the new driver is installed, you have to go to the site: https://code.pybricks.com/. On the Website you should look for the point "firmware" and then look for the under point "Restore official LEGO® Firmware."
+![](https://github.com/nicht-Phlip/Change-Firmware-on-Lego-Mindstorms/blob/main/images/Restore-Firmware.png)
+
