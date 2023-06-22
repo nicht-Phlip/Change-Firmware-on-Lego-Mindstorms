@@ -1,5 +1,6 @@
 ***This instruction requires a Windows computer***
-The Lego MIndstorms Spike and Inventor hubs have the same hardware, and if you want to change the firmware to take advantage of the other system benefits, here you can find below a detailed description.
+
+The Lego MIndstorms Spike and Inventor hubs have the same hardware, and if you want to change the firmware to take advantage of the other system benefits, Here you can find a detailed description of how to change the firmware.
 
 The initial step is to put the hub into device firmware update mode.
 To achieve that, you must turn the hub off and then press the Bluetooth button. While you press, put the USB cable in that connects to your computer.
